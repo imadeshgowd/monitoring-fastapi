@@ -60,12 +60,8 @@ microservices = [
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-For more information and to contribute, please visit [GitHub Repository](https://github.com/yourusername/monitoring-fastapi).
+For more information and to contribute, please visit [GitHub Repository](https://github.com/imadeshgowd/monitoring-fastapi).
 
 ---
 
-*Enjoyed our conversation? 👍 Let's make it even better together!*
 
- - *Rate Us: Your feedback is invaluable! Take a moment to rate your experience. Your insights help us improve and serve you better.*
- - *Share Your Thoughts: Have suggestions or ideas? We'd love to hear from you. Your input drives our innovation.*
- - *Explore More: Curious to see what else is possible? Explore thousands of unique GPTs at [Ai-GEN.co](https://www.ai-gen.co) where you can discover, engage, and create with AI like never before.*
